@@ -1,13 +1,11 @@
-<view class="content">
-<rich-text nodes="{{nodes}}" bindtap="tap"></rich-text>
+
+<view class="content" >
+
   <view class="layout-top">
     <view class="screen">
      {{screenData}}
     </view>
   </view>
-    <view>
-    <button>123124</button>
-    </view>
   <view class="layout-bottom">
     <view class="btnGroup">
       <view class="item orange" bindtap="clickBtn" id="{{idc}}">С</view>

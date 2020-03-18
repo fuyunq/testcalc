@@ -1,0 +1,14 @@
+/* pages/test/test.wxss */
+.test_box{
+display: flex;
+flex-direction: column;
+flex-wrap: wrap;
+align-content: flex-start;
+height: 150rpx;
+}
+.test_box2{
+  width: 50rpx;
+  height: 50rpx;
+  background-color: red;
+  margin: 10rpx;
+}

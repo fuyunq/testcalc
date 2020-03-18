@@ -65,3 +65,18 @@
    width:100%;
    justify-content: center;
 }
+.test_box{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  align-content: flex-start;
+  height: 150rpx;
+  width: 70rpx;
+}
+.test_box2{
+  width: 50rpx;
+  height: 50rpx;
+  background-color: red;
+  margin: 10rpx;
+}
